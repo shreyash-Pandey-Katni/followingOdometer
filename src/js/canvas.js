@@ -1,7 +1,7 @@
 import utils from './utils'
 import gsap from 'gsap'
 
-
+// Content added by the best Tanya.
 let angle = 0
 
 const canvas = document.querySelector('canvas')
